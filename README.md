@@ -16,10 +16,10 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 - [X] Realizar o fork deste repositório
   - ou
     - [ ] Clonar o repositório forkado para sua máquina, 
-    - [ ] Abrir o projeto no editor de código
+    - [X] Abrir o projeto no editor de código
   - ou
     - [X] Usar o codespace para edição
-- [ ] Construir a programação visual em style.css de acordo com as indicações abaixos
+- [X] Construir a programação visual em style.css de acordo com as indicações abaixos
 
 ### 2. Sistemas de Cores em CSS
 - [X] **2.1** Aplicar cores usando nomes de cores (ex: `red`, `blue`, `green`)
@@ -41,10 +41,10 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 ### 4. Backgrounds
 - [X] **4.1** Aplicar `background-color` em diferentes elementos
 - [ ] **4.2** Adicionar `background-image` usando URLs de imagens
-- [ ] **4.3** Controlar o tamanho da imagem de fundo com `background-size` (cover, contain, valores específicos)
-- [ ] **4.4** Posicionar imagens de fundo com `background-position` (center, top, bottom, left, right)
-- [ ] **4.5** Usar `background-repeat` (no-repeat, repeat-x, repeat-y)
-- [ ] **4.6** Combinar múltiplas propriedades de background
+- [X] **4.3** Controlar o tamanho da imagem de fundo com `background-size` (cover, contain, valores específicos)
+- [X] **4.4** Posicionar imagens de fundo com `background-position` (center, top, bottom, left, right)
+- [X] **4.5** Usar `background-repeat` (no-repeat, repeat-x, repeat-y)
+- [X] **4.6** Combinar múltiplas propriedades de background
 
 ### 5. Gradientes CSS
 - [X] **5.1** Criar um gradiente linear com 2 cores (`linear-gradient`)
@@ -54,12 +54,12 @@ Trabalhar com elementos visuais e design utilizando CSS3, explorando sistemas de
 - [X] **5.5** Experimentar com gradientes complexos e múltiplas paradas de cor
 
 ### 6. Integração e Finalização
-- [ ] **6.1** Criar uma página HTML completa aplicando todos os conceitos
-- [ ] **6.2** Garantir que o código HTML seja válido e semântico
-- [ ] **6.3** Garantir que o CSS seja bem organizado e comentado
-- [ ] **6.4** Testar a página em diferentes navegadores
-- [ ] **6.5** Fazer commit e push das alterações
-- [ ] **6.6** Verificar se o resultado está visível no GitHub
+- [X] **6.1** Criar uma página HTML completa aplicando todos os conceitos
+- [X] **6.2** Garantir que o código HTML seja válido e semântico
+- [X] **6.3** Garantir que o CSS seja bem organizado e comentado
+- [X] **6.4** Testar a página em diferentes navegadores
+- [X] **6.5** Fazer commit e push das alterações
+- [X] **6.6** Verificar se o resultado está visível no GitHub
 
 ## 📚 Recursos Úteis
 
